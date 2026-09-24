@@ -3,6 +3,8 @@
 [Apache License, Version 2.0]: https://github.com/SpiralShapeDev/LockedGender/blob/master/LICENSE-APACHE
 [Bepinex pack for Undermine]: https://www.nexusmods.com/undermine/mods/5
 
+This mod makes it so that the player's model is always a certain gender set in the mod's config. This mod was made to help people with gender dysphoria or for people who prefer a certain model over another.
+
 ## License
 Locked Gender Mod is released under the [Apache License, Version 2.0].
 
